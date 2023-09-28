@@ -1,0 +1,16 @@
+<!-- Right section for recent posts -->
+<div class="recent-posts" >
+  <h2 style="color: #be4d25;">Recent Posts</h2>
+  <ul style="padding-bottom: 10px; ">
+    {{ range first 3 (where .Site.RegularPages "Type" "blog") }}
+      <li style="margin-bottom: 10px;">
+        <em style="color: grey;">{{ .Date.Format "January 2, 2006" }}</em> - <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      </li>
+   
+    {{ end }}
+<li>
+   <em><a href="/blog" style="color: #be4d25; text-decoration: none;">View More Posts</a></em>
+</li>
+
+</ul>
+</div>

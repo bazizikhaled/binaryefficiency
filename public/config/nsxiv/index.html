@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Nsxiv | based site</title>
+  <link rel="canonical" href="">
+  <link rel='alternate' type='application/rss+xml' title="based site RSS" href='../../index.xml'>
+  <link rel='stylesheet' type='text/css' href='../../style.css'>
+
+
+  <link rel="icon" href="../../favicon.ico">
+  <meta name="description" content="Using the nsxiv Image Viewer What is nsxiv? nsxiv is a powerful and versatile image viewer designed for efficiency and customization. It provides a feature-rich experience for viewing images and offers customization options to tailor the viewer to your preferences.
+Why Use nsxiv? Feature-Rich: Explore images with advanced features, such as customizable keybindings and dynamic image operations. Efficient: nsxiv is designed for quick image browsing with a focus on performance.">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="index, follow">
+  <meta charset="utf-8">
+</head>
+<body>
+    <main>
+      <nav>
+        <ul>
+          <a href="../../">/Home </a>
+          <a href="../../blog">/Blog</a>
+	  <a href="../../config">/Configs</a>
+	  <a href="../../setups">/Setups</a>
+	  <a href="../../scripts">/Scripts</a>
+
+          <a href="../../donate">/Donate</a>
+	  <a href="../../contact">/Contact</a>
+        </ul>
+      </nav>
+
+      <header><h1 id="tag_Nsxiv">Nsxiv</h1></header>
+
+      <article>
+        
+        <hr>
+<div style="text-align: center; margin-bottom:  20px;">
+  <h1 style=" margin-bottom:  20px; font-size: 30px; font-weight: bold; color: #5C5CFF;">
+    Using the nsxiv Image Viewer
+  </h1>
+</div>
+
+<div style="text-align: left; margin-bottom:  20px;">
+  <h1 style=" margin-bottom:  20px; font-size: 25px; font-weight: bold; color: #5C5CFF;">
+    What is nsxiv?
+  </h1>
+</div>
+
+<p><code>nsxiv</code> is a powerful and versatile image viewer designed for efficiency and customization. It provides a feature-rich experience for viewing images and offers customization options to tailor the viewer to your preferences.</p>
+<div style="text-align: left; margin-bottom:  20px;">
+  <h1 style=" margin-bottom:  20px; font-size: 25px; font-weight: bold; color: #5C5CFF;">
+    Why Use nsxiv?
+  </h1>
+</div>
+
+<ul>
+<li><strong>Feature-Rich:</strong> Explore images with advanced features, such as customizable keybindings and dynamic image operations.</li>
+<li><strong>Efficient:</strong> <code>nsxiv</code> is designed for quick image browsing with a focus on performance.</li>
+<li><strong>Customizability:</strong> Tailor the viewer to your needs by configuring keybindings, appearance, and more.</li>
+</ul>
+<div style="text-align: left; margin-bottom:  20px;">
+  <h1 style=" margin-bottom:  20px; font-size: 25px; font-weight: bold; color: #5C5CFF;">
+    Installation
+  </h1>
+</div>
+
+<p>To install <code>nsxiv</code>, you can use the following command:</p>
+
+
+<style>
+  .vim-code-container {
+    display: flex;
+    justify-content: center;
+  }
+
+  .vim-code {
+    background-color: #1c1c1c;
+    color: #b9b9b9;
+    font-family: "Courier New", monospace;
+    padding: 5px;
+    border: 2px solid #4e4e4e;
+    border-radius: 8px;
+    overflow-x: auto;
+    white-space: pre;
+    margin: 20px auto;
+    max-width: calc(100% + 40px);  
+  }
+</style>
+
+<div class="vim-code-container">
+  <div class="vim-code" style="line-height: 1; font-size:15px;">
+    
+git clone https://codeberg.org/nsxiv/nsxiv.git
+cd nsxiv
+sudo make clean install
+
+  </div>
+</div>
+
+<p>Before using <code>nsxiv</code>, make sure you have the required dependencies installed</p>
+<ul>
+<li>
+<p>Required:</p>
+<ul>
+<li>Imlib2</li>
+<li>X11</li>
+</ul>
+</li>
+<li>
+<p>Optional :</p>
+<ul>
+<li>inotify (Auto-reload images on change)</li>
+<li>libXft , freetype2, fontconfig (Status bar)</li>
+<li>libexif (Auto-orientation, exif thumbnails)</li>
+</ul>
+</li>
+</ul>
+<div style="text-align: left; margin-bottom:  20px;">
+  <h1 style=" margin-bottom:  20px; font-size: 25px; font-weight: bold; color: #5C5CFF;">
+    How to Use nsxiv
+  </h1>
+</div>
+
+<h3 id="basic-usage-of-nsxiv">Basic Usage of <code>nsxiv</code></h3>
+<ul>
+<li>Open <code>nsxiv</code> in a terminal and pass the directory containing images as an argument.</li>
+</ul>
+<p>To view images in a specific directory:</p>
+
+
+<style>
+  .vim-code-container {
+    display: flex;
+    justify-content: center;
+  }
+
+  .vim-code {
+    background-color: #1c1c1c;
+    color: #b9b9b9;
+    font-family: "Courier New", monospace;
+    padding: 5px;
+    border: 2px solid #4e4e4e;
+    border-radius: 8px;
+    overflow-x: auto;
+    white-space: pre;
+    margin: 20px auto;
+    max-width: calc(100% + 40px);  
+  }
+</style>
+
+<div class="vim-code-container">
+  <div class="vim-code" style="line-height: 1; font-size:15px;">
+    
+nsxiv [Directory]
+nsxiv *
+nsxiv image1 image2 ...
+
+  </div>
+</div>
+
+<p>In both image and thumbnail modes, you can use the following commands:</p>
+<ul>
+<li><strong>q</strong>: Quit nsxiv.</li>
+<li><strong>Enter</strong>: Switch to thumbnail mode / open selected image in image mode.</li>
+<li><strong>f</strong>: Toggle fullscreen mode.</li>
+<li><strong>+</strong>: Zoom in.</li>
+<li><strong>-</strong>: Zoom out.</li>
+<li><strong>m</strong>: Mark/unmark the current image.</li>
+<li><strong>h, j, k, l</strong> (and arrow keys): Navigate selection in thumbnail mode.</li>
+<li><strong>n, p</strong> (and Space, Backspace): Navigate image list in image mode.</li>
+<li><strong>h, j, k, l</strong> (and arrow keys): Panning in image mode.</li>
+<li><strong>a</strong>: Toggle anti-aliasing.</li>
+<li><strong>ctrl+space</strong>: play gif.</li>
+</ul>
+<p>For a more comprehensive list of the default keybinds , refer to the <code>man</code> page for <code>nsxiv</code>.</p>
+<h3 id="heading"></h3>
+
+
+
+
+<img src="../../nsxiv.webp" alt="Alt Text" width="900" style="  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;">
+
+<div style="text-align: left; margin-bottom:  20px;">
+  <h1 style=" margin-bottom:  20px; font-size: 25px; font-weight: bold; color: #5C5CFF;">
+    Customizing nsxiv
+  </h1>
+</div>
+
+<p><code>nsxiv</code> can be extensively customized through configuration files located in <code>~/.config/nsxiv/exec</code>. Here&rsquo;s an overview of each file:</p>
+<ul>
+<li><strong>image-info</strong>: Displays custom image information in the status bar or overlay.</li>
+<li><strong>key-handler</strong>: Defines custom keybindings for <code>nsxiv</code>, allowing specific actions.</li>
+<li><strong>thumb-info</strong>: Similar to <code>image-info</code>, displays custom information in thumbnail mode.</li>
+<li><strong>win-title</strong>: Sets the window title, reflecting the viewed image or other relevant data.</li>
+</ul>
+<p>you can also edit the <code>config.h</code> inside the <code>nsxiv</code> folder :</p>
+<ul>
+<li><strong>config.h</strong>: Customize keybindings, appearance, behavior, and integration .</li>
+</ul>
+<div style="text-align: left; margin-bottom:  20px;">
+  <h1 style=" margin-bottom:  20px; font-size: 25px; font-weight: bold; color: #5C5CFF;">
+    My Customization
+  </h1>
+</div>
+
+<h1 id="key-handler"><code>key-handler</code></h1>
+<ol>
+<li><strong>Delete Image (Ctrl+x d)</strong>: Removes selected images, confirming via <code>dmenu</code> with herbe notification.</li>
+<li><strong>Copy Image Path (Ctrl+x p)</strong>: Copies the path of the selected image to the clipboard.</li>
+<li><strong>Copy Image (Ctrl+x c)</strong>: Copies the selected image as PNG to the clipboard.</li>
+<li><strong>Move or copy Image (Ctrl+x m)</strong>: Moves selected images to a chosen directory via <code>dmenu</code>.</li>
+<li><strong>Image Info (Ctrl+x i)</strong>: Displays detailed image information (filename, size, dimensions, format).</li>
+<li><strong>Rename Image (Ctrl+x r)</strong>: Renames selected image via <code>dmenu</code> input.</li>
+<li><strong>Open Image Directory with nsxiv (Ctrl+x l)</strong>: Prompts a list of image directories and opens the selected directory in <code>nsxiv</code>.</li>
+</ol>
+<h1 id="win-title"><code>win-title</code></h1>
+<ol>
+<li><strong>Image Mode</strong>: Reflects filename, image dimensions (width x height), zoom level, and current frame (if applicable).</li>
+<li><strong>Thumbnail Mode</strong>: Displays filename and current thumbnail item number out of total items.</li>
+</ol>
+<h1 id="image-info"><code>image-info</code></h1>
+<ol>
+<li><strong>File Size</strong>: Human-readable size of the image file.</li>
+<li><strong>Geometry</strong>: Image dimensions (width x height).</li>
+<li><strong>Resolution</strong>: Image resolution (dots per inch).</li>
+<li><strong>Format</strong>: Image file format (e.g., JPEG, PNG).</li>
+<li><strong>File Name</strong>: Name of the loaded image file.</li>
+</ol>
+<h1 id="thumb-info"><code>thumb-info</code></h1>
+<ol>
+<li><strong>File Size</strong>: Human-readable size of the image file.</li>
+<li><strong>File Name</strong>: Name of the image file (extracted using <code>basename</code>).</li>
+</ol>
+<h1 id="configh"><code>config.h</code></h1>
+<ol>
+<li><strong>Dark Color Scheme</strong>: I&rsquo;ve adjusted the colors for a darker theme.</li>
+<li><strong>Status Bar</strong>: I resized it for improved visibility and focus.`</li>
+</ol>
+<h1 id="patches"><code>patches</code></h1>
+<ol>
+<li><strong>color-invert</strong> color inversion using the <code>i</code> key.</li>
+</ol>
+<p><em>Config repository</em> &hellip;</p>
+<p><a href="../../latex/nsxiv.pdf"><em>Here you can find a PDF file explaining further my configuration</em></a></p>
+<pre><code>- Formatted using LaTex
+</code></pre>
+<hr>
+
+        
+    </article>
+  
+ 
+    </main>
+  </div>
+
+  
+  <footer>
+	  <style>
+  @media (max-width: 768px) {
+    .shortcode-container {
+	display: block !important;
+    }
+  }
+</style>
+<div >
+  <div class="shortcode-container" style=" display: flex; align-items: center; justify-content: center; margin-top: 20px;">
+    <img src="../../monero.svg" alt="Monero Logo" style="max-height: 60px; margin-right: 10px;">
+    <p style="color: #be4d25; font-size: 12px; word-wrap: break-word;">
+      XMR: 46a5LisF8x4V5RJdAvajKCYTWg5EoH4JUBvffk1jZZ1sRpFHQsd3Z6CE8JsKAdocBmA7KvUkFtpELbMvMs7Writ43xYGk3j
+    </p>
+  </div>
+</div>
+
+
+<a href="../../index.xml" style="text-decoration: none; color: #be4d25; font-size: 18px;">
+ <img src="../../rss.svg" style="max-height: 1em; margin-right: 5px;" alt="RSS Feed" title="Subscribe via RSS feed.">
+ Subscribe via RSS feed
+</a>
+
+
+
+  </footer>
+  
+</body>
+</html>

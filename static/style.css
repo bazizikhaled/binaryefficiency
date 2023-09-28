@@ -1,0 +1,125 @@
+/* Global Styles */
+
+body {
+  font-family: "Arial", sans-serif;
+  background-color: #151312; /* Change to a darker color of your choice */
+  color: #f2f2f2; /* Set a lighter text color to ensure readability */
+  line-height: 1.6;
+  font-size:20px;
+
+}
+
+main {
+  max-width: 1500px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #030303; /* Darker background color for the content area */
+  border-radius: 8px;
+  font-size:18px;
+
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Header Styles */
+
+header {
+  text-align: center;
+  margin-bottom: 40px;
+
+}
+
+header h1 {
+  font-size: 48px;
+  font-weight: bold;
+  color: #f2f2f2; /* Lighter text color for the header */
+  text-transform: uppercase;
+}
+
+/* Footer Styles */
+
+footer {
+  text-align: center;
+  padding: 20px 0;
+  color: #777;
+  background-color: #1a1a1a; /* Darker background color for the footer */
+  border-radius: 8px;
+}
+
+
+nav {
+  background-color: #33333; /* Dark gray color for navigation bar background */
+  padding: 1px 2px;
+}
+
+nav a {
+  display: inline-block;
+  margin-right: 15px;
+  padding: 5px 10px;
+  color: #f2f2f2; /* Light gray text color */
+  text-decoration: none;
+  font-size: 18px;
+  font-family: 'Roboto Condensed', sans-serif; /* Apply the cool font */
+  position: relative;
+  color: #b54227;
+  padding-top: 10px;
+}
+
+nav a::before {
+  content: "";
+  position: absolute;
+  bottom: 0; /* Position the underline at the bottom of the navigation bar */
+  left: 0;
+  width: 100%; /* Start with full width */
+  height: 2px; /* Set the thickness of the underline */
+  background-color: #007bff; /* Bright blue color for the underline */
+  opacity: 0; /* Start with no opacity */
+  transition: opacity 0.3s; /* Smooth transition for the fading effect */
+}
+
+nav a:hover::before {
+  opacity: 1; /* Fade in the underline on hover */
+}
+nav a:not(:last-child)::after {
+  content: "|"; /* Add the pipe between the links */
+  position: absolute;
+  bottom: 0; /* Position the pipe at the bottom of the navigation bar */
+  right: -12px; /* Adjust the position of the pipe to create spacing */
+  color: #ddd; /* Light gray color for the pipe */
+}
+
+
+@media (max-width: 768px) {
+  body {
+    font-size: 16px;
+  }
+
+  main {
+    padding: 10px;
+  }
+
+  header h1 {
+    font-size: 36px;
+  }
+
+  footer {
+    padding: 10px 0;
+  }
+
+
+
+  nav a {
+    font-size: 13px;
+  }
+
+  nav a::before {
+    height: 1px;
+  }
+
+  nav a:not(:last-child)::after {
+    right: -8px;
+  }
+}

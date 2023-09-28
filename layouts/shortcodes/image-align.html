@@ -1,0 +1,62 @@
+{{ $src := .Get "src" }}
+{{ $alt := .Get "alt" }}
+{{ $width := .Get "width" | default "700px" }}
+{{ $margin := .Get "margin" | default "20px" }}
+{{ $alignment := .Get "alignment" | default "left" }}
+{{ $title := .Get "title" }}
+{{ $description := .Inner }}
+{{ $projectLink := .Get "project_link" }}
+{{ $textColor := .Get "text_color" | default "white" }}
+{{ $imageTitle := .Get "image_title" }} <!-- Add image title variable -->
+
+<div class="container" style="display: flex; align-items: center; margin-bottom: 100px;"> <!-- Added margin-bottom -->
+  {{ if eq $alignment "right" }}
+    <div class="image-box" style="flex: 1; padding: 10px;">
+      <div class="c1" style="max-width: {{ $width }}; float: right; margin-left: 20px;">
+        <a href="{{ $projectLink }}" style="display: block; position: relative;">
+          <img src="{{ $src }}" alt="{{ $alt }}" style="max-width: 100%;">
+          <div style="position: absolute; bottom: 0; left: 0; right: 0; background-color: rgba(0, 0, 0, 0.7); color: {{ $textColor }}; padding: 5px; transition: background-color 0.3s;">
+            <div class="image-title" style="text-align: center;">
+              <span style="font-size: 18px; display: block; padding: 5px 0;">{{ $imageTitle }}</span>
+            </div>
+          </div>
+        </a>
+      </div>
+    </div>
+    <div  style="flex: 1; margin-left: {{ $margin }};">
+      <div>
+        <h2  style="font-style: italic; color: grey;">{{ $title }}</h2>
+        <p >{{ $description }}</p>
+      </div>
+    </div>
+  {{ else }}
+    <div  style="flex: 1; margin-right: {{ $margin }};">
+      <div>
+        <h2  style="font-style: italic; color: grey;">{{ $title }}</h2>
+        <p >{{ $description }}</p>
+      </div>
+    </div>
+    <div class="image-box" style="flex: 1; padding: 10px;">
+      <div style="max-width: {{ $width }}; float: left; margin-right: 20px;">
+        <a href="{{ $projectLink }}" style="display: block; position: relative;">
+          <img src="{{ $src }}" alt="{{ $alt }}" style="max-width: 100%;">
+          <div style="position: absolute; bottom: 0; left: 0; right: 0; background-color: rgba(0, 0, 0, 0.7); color: {{ $textColor }}; padding: 5px; transition: background-color 0.3s;">
+            <div  style="text-align: center;">
+              <span style="font-size: 18px; display: block; padding: 5px 0;">{{ $imageTitle }}</span>
+            </div>
+          </div>
+        </a>
+      </div>
+    </div>
+  {{ end }}
+</div>
+
+<style>
+  @media (max-width: 768px) {
+    .container {
+      flex-direction: column;
+    }
+
+
+  }
+</style>

@@ -1,0 +1,39 @@
+<style>
+  .button {
+    display: inline-block;
+    padding: 5px 10px;
+    text-decoration: none;
+    font-size: 25px;
+    cursor: pointer;
+  }
+
+  .button:hover {
+    text-decoration: underline;
+  }
+
+  .line {
+    display: flex;
+    justify-content: space-between; /* Distribute items along the line */
+    align-items: center; /* Center items vertically */
+  }
+
+  .center-button {
+    display: flex;
+    justify-content: center;
+    flex-grow: 1; /* Take available space */
+  }
+
+  .shift-left {
+    margin-left: 340px; /* Move button 150px to the left */
+  }
+</style>
+
+<div>
+  <div class="line">
+    <a href="/blog" class="button shift-left" >Back to Blog</a>
+    <div class="center-button">
+      <a href="{{ .Get "pdf" }}" class="button" download>Get as a PDF </a>
+    </div>
+  </div>
+</div>
+

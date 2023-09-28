@@ -1,0 +1,27 @@
+{{ $size := .Get "size" | default "15px" }}
+{{ $height := .Get "height" | default "1" }}
+<style>
+  .vim-code-container {
+    display: flex;
+    justify-content: center;
+  }
+
+  .vim-code {
+    background-color: #1c1c1c;
+    color: #b9b9b9;
+    font-family: "Courier New", monospace;
+    padding: 5px;
+    border: 2px solid #4e4e4e;
+    border-radius: 8px;
+    overflow-x: auto;
+    white-space: pre;
+    margin: 20px auto;
+    max-width: calc(100% + 40px); /* Extend the box by 40px */
+  }
+</style>
+
+<div class="vim-code-container">
+  <div class="vim-code" style="line-height: {{ $height }}; font-size:{{ $size }};">
+    {{ .Inner | safeHTML }}
+  </div>
+</div>

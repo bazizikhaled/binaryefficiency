@@ -1,0 +1,22 @@
+{{ define "title" -}}
+{{ .Title | title }}
+{{- end }}
+{{ define "main" -}}
+{{ .Content }}
+{{ if eq .Section "blog" }}
+<ul style="list-style-position: inside;  border-bottom: 2px solid #ccc; padding-bottom: 15px;">
+{{- range.Pages }}
+<li style="text-align: center; font-size: 25px; margin-bottom: 30px; "  >
+	{{- if .Param "datesinlist" }}<time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}"><em style="color: 
+	grey;">{{ .Date.Format "January 2, 2006" }}</em></time > &ndash; {{ end -}} <a href="{{ .RelPermalink }}">{{ 
+	.Title }}</a> {{- if .Param "authorsinlist" }} {{ with .Params.authors }}
+		by 
+		{{ delimit . ", " " and " }}
+	{{end}}
+	{{ end -}}
+</li>
+{{- end }}
+</ul>
+{{- end }}
+{{- end }}
+

@@ -1,0 +1,43 @@
+{{ $src := .Get "src" }}
+{{ $alt := .Get "alt" }}
+{{ $width := .Get "width" | default "700px" }}
+{{ $phoneWidth := "300px" }} <!-- Define a smaller width for phones -->
+{{ $margin := .Get "margin" | default "20px" }}
+{{ $alignment := .Get "alignment" | default "left" }}
+
+<div class="content-container" style="display: flex; flex-wrap: wrap; align-items: center;">
+
+  <div class="text-box" style="flex: 1; padding: 10px;">
+    {{ .Inner }}
+  </div>
+
+  <div class="image-box" style="flex: 1; margin-top: {{ $margin }};">
+    <img src="{{ $src }}" alt="{{ $alt }}" class="responsive-image" style="max-width: {{ $width }};">
+  </div>
+
+</div>
+
+<style>
+  @media (max-width: 768px) {
+    .content-container {
+      flex-direction: column; /* Stack items vertically on small screens */
+    }
+
+    .text-box,
+    .image-box {
+      flex: 100%;
+      max-width: 100%;
+      padding: 10px;
+    }
+
+    .responsive-image {
+      width: 100%;
+      height: auto;
+      max-width: {{ $phoneWidth }}; /* Apply the smaller width for phones */
+    }
+
+    .text-box {
+      font-size: 14px; /* Adjust the font size for smaller screens */
+    }
+  }
+</style>

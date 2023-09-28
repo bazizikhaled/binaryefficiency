@@ -1,0 +1,8 @@
+{{ $size := .Get "size" | default "24px" }}
+{{ $color := .Get "color" | default "#007bff" }}
+{{ $underline := .Get "underline" | default "underline" }}
+{{ $marginBottom := .Get "margin-bottom" | default "20px" }}
+
+<div style="text-align: center; margin-bottom: {{ $marginBottom }};">
+  <a href="{{ .Get "url" }}" style="font-size: {{ $size }}; color: {{ $color }}; text-decoration: {{ $underline }};">{{ .Get "title" }}</a>
+</div>

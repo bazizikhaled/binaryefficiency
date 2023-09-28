@@ -1,0 +1,72 @@
+/* Global Styles */
+
+
+
+body {
+  font-family: sans-serif;
+  background-color: #110000;
+  color: #ccc;
+}
+
+main {
+  max-width: 800px;
+  margin: auto;
+}
+
+img {
+  max-width: 100%;
+}
+
+header h1 {
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+  clear: both;
+}
+
+/* For TAGLIST.HTML */
+.taglist {
+  text-align: center;
+  clear: both;
+}
+
+/* For NEXTPREV.HTML */
+#nextprev {
+  /* The container for both the previous and next articles. */
+}
+
+#prevart {
+  float: left;
+  text-align: left;
+  max-width: 33%;
+}
+
+#nextart {
+  float: right;
+  text-align: right;
+  max-width: 33%;
+}
+
+/* Media Queries for Responsiveness */
+@media (max-width: 768px) {
+  main {
+    padding: 10px;
+  }
+
+  footer {
+    padding: 10px;
+  }
+
+  .taglist a {
+    padding: 6px 10px;
+    font-size: 14px;
+  }
+
+  #prevart,
+  #nextart {
+    width: 100%;
+    padding: 8px;
+  }
+}

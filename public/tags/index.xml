@@ -1,0 +1,1169 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+	<title>based site</title>
+	<link>/tags/</link>
+	<description>Recent content in Tags on based site</description>
+	<generator>Hugo -- gohugo.io</generator>
+	<language>en-us</language>
+    
+        <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	
+	
+	<item>
+		<title>Updates log</title>
+		<link>/update/</link>
+		<pubDate>Fri, 25 Aug 2023 16:32:46 +0100</pubDate>
+		
+		<guid>/update/</guid>
+		<description>&lt;hr&gt;
+&lt;li style=&#34;margin-bottom: 17px; margin-left: 60px; font-size:25px;  &#34;&gt;
+    &lt;em style=&#34;color: grey;&#34;&gt;2023-08-28&lt;/em&gt; - Site Deployed
+&lt;/li&gt;
+
+
+&lt;div style=&#34;margin-bottom: 300px;&#34;&gt;&lt;/div&gt;
+
+</description>
+	</item>
+	
+	<item>
+		<title>Nnewsboat</title>
+		<link>/setups/nnewsboat/</link>
+		<pubDate>Sun, 20 Aug 2023 12:23:21 +0100</pubDate>
+		
+		<guid>/setups/nnewsboat/</guid>
+		<description>&lt;hr&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+    &lt;img src=&#34;../under.gif&#34; alt=&#34;text&#34;&gt;
+&lt;/div&gt;
+
+&lt;div style=&#34;margin-bottom: 300px;&#34;&gt;&lt;/div&gt;
+
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Software and tools</title>
+		<link>/blog/post1/</link>
+		<pubDate>Sat, 19 Aug 2023 13:21:54 +0100</pubDate>
+		
+		<guid>/blog/post1/</guid>
+		<description>&lt;hr&gt;
+&lt;div style=&#34;text-align: center; margin-bottom:  20px;&#34;&gt;
+  &lt;h1 style=&#34; margin-bottom:  20px; font-size: 25px; font-weight: bold; color: #953d1d;&#34;&gt;
+    What i use: 
+  &lt;/h1&gt;
+&lt;/div&gt;
+
+&lt;div style=&#34;display: flex; justify-content: left; align-items: left; &#34;&gt; 
+
+&lt;p style=&#34; font-size:20px; margin-top:0.1px; 
+    margin-left: 50px&#34;&gt;Presented below are a selection of the software and tools that I use showcasing a range of essential utilities that play a crucial role in my computing experience.
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div style=&#34;text-align: center; margin-bottom:  5px;&#34;&gt;
+  &lt;h1 style=&#34; margin-bottom:  5px; font-size: 25px; font-weight: bold; color: #953d1d;&#34;&gt;
+    Criteria
+  &lt;/h1&gt;
+&lt;/div&gt;
+
+&lt;div style=&#34;display: flex; justify-content: center; align-items: center; &#34;&gt; 
+
+&lt;p style=&#34; font-size:20px; margin-top:0.1px; 
+    margin-left: 50px&#34;&gt;My software choices are defined by the principles of extensibility, minimalism, and a strong commitment to the Unix
+philosophy, These principles guide me to tools that offer efficiency, customization, and seamless integration. The
+&lt;code&gt;suckless&lt;/code&gt; software serves as a prime example, embodying these values and creating a cohesive and effective digital
+ecosystem
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;div style=&#34;text-align: left; margin-bottom:  1px;&#34;&gt;
+  &lt;h1 style=&#34; margin-bottom:  1px; font-size: 22px; font-weight: bold; color: #953d1d;&#34;&gt;
+    Distro
+  &lt;/h1&gt;
+&lt;/div&gt;
+
+&lt;div style=&#34;display: flex; justify-content: left; align-items: left; &#34;&gt; 
+
+&lt;p style=&#34; font-size:20px; margin-top:0.1px; 
+    margin-left: 50px&#34;&gt;&lt;code&gt;Arch&lt;/code&gt; is my go-to choice due to its supportive community, the wide array of software available through the AUR, and
+the invaluable resource that is the Arch Wiki
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+&lt;div style=&#34;text-align: left; margin-bottom:  1px;&#34;&gt;
+  &lt;h1 style=&#34; margin-bottom:  1px; font-size: 22px; font-weight: bold; color: #953d1d;&#34;&gt;
+    WM
+  &lt;/h1&gt;
+&lt;/div&gt;
+
+&lt;div style=&#34;display: flex; justify-content: left; align-items: left; &#34;&gt; 
+
+&lt;p style=&#34; font-size:20px; margin-top:0.1px; 
+    margin-left: 50px&#34;&gt;&lt;code&gt;Dwm&lt;/code&gt; for its lightweight,adaptable and extensible nature
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;div style=&#34;text-align: left; margin-bottom:  1px;&#34;&gt;
+  &lt;h1 style=&#34; margin-bottom:  1px; font-size: 22px; font-weight: bold; color: #953d1d;&#34;&gt;
+    Terminal
+  &lt;/h1&gt;
+&lt;/div&gt;
+
+&lt;div style=&#34;display: flex; justify-content: left; align-items: left; &#34;&gt; 
+
+&lt;p style=&#34; font-size:20px; margin-top:0.1px; 
+    margin-left: 50px&#34;&gt;&lt;code&gt;St&lt;/code&gt; known to be an extremely minimal terminal emulator.
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+&lt;div style=&#34;text-align: left; margin-bottom:  1px;&#34;&gt;
+  &lt;h1 style=&#34; margin-bottom:  1px; font-size: 22px; font-weight: bold; color: #953d1d;&#34;&gt;
+     Net Browsing
+  &lt;/h1&gt;
+&lt;/div&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Firefox&lt;/code&gt; &lt;em&gt;with tweaked&lt;/em&gt; &lt;code&gt;Arkenfox&lt;/code&gt; &lt;em&gt;User.js&lt;/em&gt;: for a privacy-focused and secure browsing experience of the modern web&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;ytfzf&lt;/code&gt;: for consuming youtube without the bloat&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Searx&lt;/code&gt;: For private and secure web searches&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;div style=&#34;text-align: left; margin-bottom:  1px;&#34;&gt;
+  &lt;h1 style=&#34; margin-bottom:  1px; font-size: 22px; font-weight: bold; color: #953d1d;&#34;&gt;
+     File Manager
+  &lt;/h1&gt;
+&lt;/div&gt;
+
+&lt;div style=&#34;display: flex; justify-content: left; align-items: left; &#34;&gt; 
+
+&lt;p style=&#34; font-size:20px; margin-top:0.1px; 
+    margin-left: 50px&#34;&gt;&lt;code&gt;Lf&lt;/code&gt;, a terminal file manager written in Go, heavily inspired by &lt;code&gt;ranger&lt;/code&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;div style=&#34;text-align: left; margin-bottom:  1px;&#34;&gt;
+  &lt;h1 style=&#34; margin-bottom:  1px; font-size: 22px; font-weight: bold; color: #953d1d;&#34;&gt;
+     RSS Reader
+  &lt;/h1&gt;
+&lt;/div&gt;
+
+&lt;div style=&#34;display: flex; justify-content: left; align-items: left; &#34;&gt; 
+
+&lt;p style=&#34; font-size:20px; margin-top:0.1px; 
+    margin-left: 50px&#34;&gt;&lt;code&gt;newsboat&lt;/code&gt;, an efficient RSS reader to replace social media and  keep track of the latest updates from your chosen sources
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+&lt;div style=&#34;text-align: left; margin-bottom:  1px;&#34;&gt;
+  &lt;h1 style=&#34; margin-bottom:  1px; font-size: 22px; font-weight: bold; color: #953d1d;&#34;&gt;
+     Image viewing
+  &lt;/h1&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;div style=&#34;display: flex; justify-content: left; align-items: left; &#34;&gt; 
+
+&lt;p style=&#34; font-size:20px; margin-top:0.1px; 
+    margin-left: 50px&#34;&gt;&lt;code&gt;Nsxiv&lt;/code&gt;, a maintained fork of sxiv, offers high scriptability
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div style=&#34;text-align: left; margin-bottom:  1px;&#34;&gt;
+  &lt;h1 style=&#34; margin-bottom:  1px; font-size: 22px; font-weight: bold; color: #953d1d;&#34;&gt;
+     Document Creation
+  &lt;/h1&gt;
+&lt;/div&gt;
+
+&lt;div style=&#34;display: flex; justify-content: left; align-items: left; &#34;&gt; 
+
+&lt;p style=&#34; font-size:20px; margin-top:0.1px; 
+    margin-left: 50px&#34;&gt;&lt;code&gt;LaTex&lt;/code&gt;, a powerful typesetting system renowned for its ability to create visually appealing and professionally formatted
+documents
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+&lt;div style=&#34;text-align: left; margin-bottom:  1px;&#34;&gt;
+  &lt;h1 style=&#34; margin-bottom:  1px; font-size: 22px; font-weight: bold; color: #953d1d;&#34;&gt;
+     Pdf Viewer
+  &lt;/h1&gt;
+&lt;/div&gt;
+
+&lt;div style=&#34;display: flex; justify-content: left; align-items: left; &#34;&gt; 
+
+&lt;p style=&#34; font-size:20px; margin-top:0.1px; 
+    margin-left: 50px&#34;&gt;&lt;code&gt;Zathura&lt;/code&gt;,pdf viewer with vim bindings
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div style=&#34;text-align: left; margin-bottom:  1px;&#34;&gt;
+  &lt;h1 style=&#34; margin-bottom:  1px; font-size: 22px; font-weight: bold; color: #953d1d;&#34;&gt;
+     Presentations
+  &lt;/h1&gt;
+&lt;/div&gt;
+
+&lt;div style=&#34;display: flex; justify-content: left; align-items: left; &#34;&gt; 
+
+&lt;p style=&#34; font-size:20px; margin-top:0.1px; 
+    margin-left: 50px&#34;&gt;&lt;code&gt;Sent&lt;/code&gt;, a simple presentation tool that elegantly converts plain text and images into slides
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div style=&#34;text-align: left; margin-bottom:  1px;&#34;&gt;
+  &lt;h1 style=&#34; margin-bottom:  1px; font-size: 22px; font-weight: bold; color: #953d1d;&#34;&gt;
+     Text Editor
+  &lt;/h1&gt;
+&lt;/div&gt;
+
+&lt;div style=&#34;display: flex; justify-content: left; align-items: left; &#34;&gt; 
+
+&lt;p style=&#34; font-size:20px; margin-top:0.1px; 
+    margin-left: 50px&#34;&gt;&lt;code&gt;Vim&lt;/code&gt;, basicly &lt;code&gt;neovim&lt;/code&gt; text editor
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;div style=&#34;text-align: left; margin-bottom:  1px;&#34;&gt;
+  &lt;h1 style=&#34; margin-bottom:  1px; font-size: 22px; font-weight: bold; color: #953d1d;&#34;&gt;
+    Shell
+  &lt;/h1&gt;
+&lt;/div&gt;
+
+&lt;div style=&#34;display: flex; justify-content: left; align-items: left; &#34;&gt; 
+
+&lt;p style=&#34; font-size:20px; margin-top:0.1px; 
+    margin-left: 50px&#34;&gt;&lt;code&gt;Zsh&lt;/code&gt;, Command-Line Utilities with Extra Addons
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+&lt;div style=&#34;text-align: left; margin-bottom:  1px;&#34;&gt;
+  &lt;h1 style=&#34; margin-bottom:  1px; font-size: 22px; font-weight: bold; color: #953d1d;&#34;&gt;
+    Scripting
+  &lt;/h1&gt;
+&lt;/div&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;dmenu&lt;/code&gt;: A dynamic menu&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;smenu&lt;/code&gt;: menu selection with a more intuitive and interactive interface.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;fzf&lt;/code&gt;: A versatile fuzzy finder&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;herbe&lt;/code&gt;: A minimalist notification daemon for unobtrusive alerts.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;xclip&lt;/code&gt;: A clipboard utility for easy copying and pasting of text.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;entr&lt;/code&gt;: A tool that automates tasks based on file changes.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;wjt&lt;/code&gt;: A slider widget, allowing easy selection within a range&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;nq&lt;/code&gt; : queue utilitie&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;pv&lt;/code&gt; : Pipe Viewer for monitoring the progress&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;fzy&lt;/code&gt;: simple fuzzy text selector&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div style=&#34;text-align: left; margin-bottom:  1px;&#34;&gt;
+  &lt;h1 style=&#34; margin-bottom:  1px; font-size: 22px; font-weight: bold; color: #953d1d;&#34;&gt;
+    Other Useful Tools
+  &lt;/h1&gt;
+&lt;/div&gt;
+
+&lt;div style=&#34;display: flex; justify-content: left; align-items: left; &#34;&gt; 
+
+&lt;p style=&#34; font-size:100px; margin-top:0.1px; 
+    margin-left: 30px&#34;&gt;&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;xdg-ninja&lt;/code&gt;: to clean up your $HOME directory&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;brightnessctl&lt;/code&gt;: A handy tool for adjusting screen brightness levels from the command line.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;arch-wiki-man&lt;/code&gt;: get the arch wiki as man pages offline&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;xbanish&lt;/code&gt; : Hide the cursor while typing.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;bgs&lt;/code&gt;:minimal program to set a background&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;iwctl&lt;/code&gt;: to connete to the internet&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;6cord&lt;/code&gt;: terminal discord client&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;axel&lt;/code&gt; : download manager&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;maim&lt;/code&gt; : screenshots&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;ffmpeg&lt;/code&gt;: to record my screen&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;speedtest-go&lt;/code&gt;:&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;sc-im&lt;/code&gt; : exel like spreed sheets&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;redshift&lt;/code&gt;: an open source flux to ajust the color temperature&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;style&gt;
+  .button {
+    display: inline-block;
+    padding: 5px 10px;
+    text-decoration: none;
+    font-size: 25px;
+    cursor: pointer;
+  }
+
+  .button:hover {
+    text-decoration: underline;
+  }
+
+  .line {
+    display: flex;
+    justify-content: space-between;  
+    align-items: center;  
+  }
+
+  .center-button {
+    display: flex;
+    justify-content: center;
+    flex-grow: 1;  
+  }
+
+  .shift-left {
+    margin-left: 340px;  
+  }
+&lt;/style&gt;
+
+&lt;div&gt;
+  &lt;div class=&#34;line&#34;&gt;
+    &lt;a href=&#34;../blog&#34; class=&#34;button shift-left&#34; &gt;Back to Blog&lt;/a&gt;
+    &lt;div class=&#34;center-button&#34;&gt;
+      &lt;a href=&#34;&#34; class=&#34;button&#34; download&gt;Get as a PDF &lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+</description>
+	</item>
+	
+	<item>
+		<title>Bookmarks</title>
+		<link>/scripts/bookmarks/</link>
+		<pubDate>Wed, 16 Aug 2023 15:28:03 +0100</pubDate>
+		
+		<guid>/scripts/bookmarks/</guid>
+		<description>&lt;hr&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+    &lt;img src=&#34;../under.gif&#34; alt=&#34;text&#34;&gt;
+&lt;/div&gt;
+
+&lt;div style=&#34;margin-bottom: 300px;&#34;&gt;&lt;/div&gt;
+
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Nsxiv</title>
+		<link>/config/nsxiv/</link>
+		<pubDate>Sat, 12 Aug 2023 19:03:29 +0100</pubDate>
+		
+		<guid>/config/nsxiv/</guid>
+		<description>&lt;hr&gt;
+&lt;div style=&#34;text-align: center; margin-bottom:  20px;&#34;&gt;
+  &lt;h1 style=&#34; margin-bottom:  20px; font-size: 30px; font-weight: bold; color: #5C5CFF;&#34;&gt;
+    Using the nsxiv Image Viewer
+  &lt;/h1&gt;
+&lt;/div&gt;
+
+&lt;div style=&#34;text-align: left; margin-bottom:  20px;&#34;&gt;
+  &lt;h1 style=&#34; margin-bottom:  20px; font-size: 25px; font-weight: bold; color: #5C5CFF;&#34;&gt;
+    What is nsxiv?
+  &lt;/h1&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;code&gt;nsxiv&lt;/code&gt; is a powerful and versatile image viewer designed for efficiency and customization. It provides a feature-rich experience for viewing images and offers customization options to tailor the viewer to your preferences.&lt;/p&gt;
+&lt;div style=&#34;text-align: left; margin-bottom:  20px;&#34;&gt;
+  &lt;h1 style=&#34; margin-bottom:  20px; font-size: 25px; font-weight: bold; color: #5C5CFF;&#34;&gt;
+    Why Use nsxiv?
+  &lt;/h1&gt;
+&lt;/div&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Feature-Rich:&lt;/strong&gt; Explore images with advanced features, such as customizable keybindings and dynamic image operations.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Efficient:&lt;/strong&gt; &lt;code&gt;nsxiv&lt;/code&gt; is designed for quick image browsing with a focus on performance.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Customizability:&lt;/strong&gt; Tailor the viewer to your needs by configuring keybindings, appearance, and more.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div style=&#34;text-align: left; margin-bottom:  20px;&#34;&gt;
+  &lt;h1 style=&#34; margin-bottom:  20px; font-size: 25px; font-weight: bold; color: #5C5CFF;&#34;&gt;
+    Installation
+  &lt;/h1&gt;
+&lt;/div&gt;
+
+&lt;p&gt;To install &lt;code&gt;nsxiv&lt;/code&gt;, you can use the following command:&lt;/p&gt;
+
+
+&lt;style&gt;
+  .vim-code-container {
+    display: flex;
+    justify-content: center;
+  }
+
+  .vim-code {
+    background-color: #1c1c1c;
+    color: #b9b9b9;
+    font-family: &#34;Courier New&#34;, monospace;
+    padding: 5px;
+    border: 2px solid #4e4e4e;
+    border-radius: 8px;
+    overflow-x: auto;
+    white-space: pre;
+    margin: 20px auto;
+    max-width: calc(100% + 40px);  
+  }
+&lt;/style&gt;
+
+&lt;div class=&#34;vim-code-container&#34;&gt;
+  &lt;div class=&#34;vim-code&#34; style=&#34;line-height: 1; font-size:15px;&#34;&gt;
+    
+git clone https://codeberg.org/nsxiv/nsxiv.git
+cd nsxiv
+sudo make clean install
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Before using &lt;code&gt;nsxiv&lt;/code&gt;, make sure you have the required dependencies installed&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Required:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Imlib2&lt;/li&gt;
+&lt;li&gt;X11&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Optional :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;inotify (Auto-reload images on change)&lt;/li&gt;
+&lt;li&gt;libXft , freetype2, fontconfig (Status bar)&lt;/li&gt;
+&lt;li&gt;libexif (Auto-orientation, exif thumbnails)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div style=&#34;text-align: left; margin-bottom:  20px;&#34;&gt;
+  &lt;h1 style=&#34; margin-bottom:  20px; font-size: 25px; font-weight: bold; color: #5C5CFF;&#34;&gt;
+    How to Use nsxiv
+  &lt;/h1&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;basic-usage-of-nsxiv&#34;&gt;Basic Usage of &lt;code&gt;nsxiv&lt;/code&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Open &lt;code&gt;nsxiv&lt;/code&gt; in a terminal and pass the directory containing images as an argument.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;To view images in a specific directory:&lt;/p&gt;
+
+
+&lt;style&gt;
+  .vim-code-container {
+    display: flex;
+    justify-content: center;
+  }
+
+  .vim-code {
+    background-color: #1c1c1c;
+    color: #b9b9b9;
+    font-family: &#34;Courier New&#34;, monospace;
+    padding: 5px;
+    border: 2px solid #4e4e4e;
+    border-radius: 8px;
+    overflow-x: auto;
+    white-space: pre;
+    margin: 20px auto;
+    max-width: calc(100% + 40px);  
+  }
+&lt;/style&gt;
+
+&lt;div class=&#34;vim-code-container&#34;&gt;
+  &lt;div class=&#34;vim-code&#34; style=&#34;line-height: 1; font-size:15px;&#34;&gt;
+    
+nsxiv [Directory]
+nsxiv *
+nsxiv image1 image2 ...
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;In both image and thumbnail modes, you can use the following commands:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;q&lt;/strong&gt;: Quit nsxiv.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Enter&lt;/strong&gt;: Switch to thumbnail mode / open selected image in image mode.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;f&lt;/strong&gt;: Toggle fullscreen mode.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;+&lt;/strong&gt;: Zoom in.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;-&lt;/strong&gt;: Zoom out.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;m&lt;/strong&gt;: Mark/unmark the current image.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;h, j, k, l&lt;/strong&gt; (and arrow keys): Navigate selection in thumbnail mode.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;n, p&lt;/strong&gt; (and Space, Backspace): Navigate image list in image mode.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;h, j, k, l&lt;/strong&gt; (and arrow keys): Panning in image mode.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;a&lt;/strong&gt;: Toggle anti-aliasing.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ctrl+space&lt;/strong&gt;: play gif.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For a more comprehensive list of the default keybinds , refer to the &lt;code&gt;man&lt;/code&gt; page for &lt;code&gt;nsxiv&lt;/code&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;heading&#34;&gt;&lt;/h3&gt;
+
+
+
+
+&lt;img src=&#34;../nsxiv.webp&#34; alt=&#34;Alt Text&#34; width=&#34;900&#34; style=&#34;  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;&#34;&gt;
+
+&lt;div style=&#34;text-align: left; margin-bottom:  20px;&#34;&gt;
+  &lt;h1 style=&#34; margin-bottom:  20px; font-size: 25px; font-weight: bold; color: #5C5CFF;&#34;&gt;
+    Customizing nsxiv
+  &lt;/h1&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;code&gt;nsxiv&lt;/code&gt; can be extensively customized through configuration files located in &lt;code&gt;~/.config/nsxiv/exec&lt;/code&gt;. Here&amp;rsquo;s an overview of each file:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;image-info&lt;/strong&gt;: Displays custom image information in the status bar or overlay.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;key-handler&lt;/strong&gt;: Defines custom keybindings for &lt;code&gt;nsxiv&lt;/code&gt;, allowing specific actions.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;thumb-info&lt;/strong&gt;: Similar to &lt;code&gt;image-info&lt;/code&gt;, displays custom information in thumbnail mode.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;win-title&lt;/strong&gt;: Sets the window title, reflecting the viewed image or other relevant data.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;you can also edit the &lt;code&gt;config.h&lt;/code&gt; inside the &lt;code&gt;nsxiv&lt;/code&gt; folder :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;config.h&lt;/strong&gt;: Customize keybindings, appearance, behavior, and integration .&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div style=&#34;text-align: left; margin-bottom:  20px;&#34;&gt;
+  &lt;h1 style=&#34; margin-bottom:  20px; font-size: 25px; font-weight: bold; color: #5C5CFF;&#34;&gt;
+    My Customization
+  &lt;/h1&gt;
+&lt;/div&gt;
+
+&lt;h1 id=&#34;key-handler&#34;&gt;&lt;code&gt;key-handler&lt;/code&gt;&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Delete Image (Ctrl+x d)&lt;/strong&gt;: Removes selected images, confirming via &lt;code&gt;dmenu&lt;/code&gt; with herbe notification.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Copy Image Path (Ctrl+x p)&lt;/strong&gt;: Copies the path of the selected image to the clipboard.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Copy Image (Ctrl+x c)&lt;/strong&gt;: Copies the selected image as PNG to the clipboard.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Move or copy Image (Ctrl+x m)&lt;/strong&gt;: Moves selected images to a chosen directory via &lt;code&gt;dmenu&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Image Info (Ctrl+x i)&lt;/strong&gt;: Displays detailed image information (filename, size, dimensions, format).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Rename Image (Ctrl+x r)&lt;/strong&gt;: Renames selected image via &lt;code&gt;dmenu&lt;/code&gt; input.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Open Image Directory with nsxiv (Ctrl+x l)&lt;/strong&gt;: Prompts a list of image directories and opens the selected directory in &lt;code&gt;nsxiv&lt;/code&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;win-title&#34;&gt;&lt;code&gt;win-title&lt;/code&gt;&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Image Mode&lt;/strong&gt;: Reflects filename, image dimensions (width x height), zoom level, and current frame (if applicable).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Thumbnail Mode&lt;/strong&gt;: Displays filename and current thumbnail item number out of total items.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;image-info&#34;&gt;&lt;code&gt;image-info&lt;/code&gt;&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;File Size&lt;/strong&gt;: Human-readable size of the image file.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Geometry&lt;/strong&gt;: Image dimensions (width x height).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Resolution&lt;/strong&gt;: Image resolution (dots per inch).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Format&lt;/strong&gt;: Image file format (e.g., JPEG, PNG).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;File Name&lt;/strong&gt;: Name of the loaded image file.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;thumb-info&#34;&gt;&lt;code&gt;thumb-info&lt;/code&gt;&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;File Size&lt;/strong&gt;: Human-readable size of the image file.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;File Name&lt;/strong&gt;: Name of the image file (extracted using &lt;code&gt;basename&lt;/code&gt;).&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;configh&#34;&gt;&lt;code&gt;config.h&lt;/code&gt;&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Dark Color Scheme&lt;/strong&gt;: I&amp;rsquo;ve adjusted the colors for a darker theme.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Status Bar&lt;/strong&gt;: I resized it for improved visibility and focus.`&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;patches&#34;&gt;&lt;code&gt;patches&lt;/code&gt;&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;color-invert&lt;/strong&gt; color inversion using the &lt;code&gt;i&lt;/code&gt; key.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;em&gt;Config repository&lt;/em&gt; &amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;../latex/nsxiv.pdf&#34;&gt;&lt;em&gt;Here you can find a PDF file explaining further my configuration&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;- Formatted using LaTex
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Sent</title>
+		<link>/config/sent/</link>
+		<pubDate>Thu, 10 Aug 2023 07:52:47 +0100</pubDate>
+		
+		<guid>/config/sent/</guid>
+		<description>&lt;hr&gt;
+&lt;div style=&#34;text-align: center; margin-bottom:  20px;&#34;&gt;
+  &lt;h1 style=&#34; margin-bottom:  20px; font-size: 30px; font-weight: bold; color: #be4d25;&#34;&gt;
+    Using the sent Presentation Tool
+  &lt;/h1&gt;
+&lt;/div&gt;
+
+&lt;div style=&#34;text-align: left; margin-bottom:  20px;&#34;&gt;
+  &lt;h1 style=&#34; margin-bottom:  20px; font-size: 25px; font-weight: bold; color: #be4d25;&#34;&gt;
+    What is sent?
+  &lt;/h1&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;code&gt;sent&lt;/code&gt; is a simple, lightweight, and command-line-based presentation tool. It allows you to create slideshows by using plain text files, making it easy to focus on the content of your presentation.&lt;/p&gt;
+&lt;div style=&#34;text-align: left; margin-bottom:  20px;&#34;&gt;
+  &lt;h1 style=&#34; margin-bottom:  20px; font-size: 25px; font-weight: bold; color: #be4d25;&#34;&gt;
+    Why Use sent?
+  &lt;/h1&gt;
+&lt;/div&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Simplicity:&lt;/strong&gt; Creating slides is as easy as writing paragraphs in a text file.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Minimal Distraction:&lt;/strong&gt; No need to worry about design, animations, or complex slide transitions.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Lightweight:&lt;/strong&gt; &lt;code&gt;sent&lt;/code&gt; is lightweight and efficient, making it a great choice for quick presentations.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div style=&#34;text-align: left; margin-bottom:  20px;&#34;&gt;
+  &lt;h1 style=&#34; margin-bottom:  20px; font-size: 25px; font-weight: bold; color: #be4d25;&#34;&gt;
+    Installation
+  &lt;/h1&gt;
+&lt;/div&gt;
+
+&lt;p&gt;To install &lt;code&gt;sent&lt;/code&gt; , you can use the following command:&lt;/p&gt;
+
+
+&lt;style&gt;
+  .vim-code-container {
+    display: flex;
+    justify-content: center;
+  }
+
+  .vim-code {
+    background-color: #1c1c1c;
+    color: #b9b9b9;
+    font-family: &#34;Courier New&#34;, monospace;
+    padding: 5px;
+    border: 2px solid #4e4e4e;
+    border-radius: 8px;
+    overflow-x: auto;
+    white-space: pre;
+    margin: 20px auto;
+    max-width: calc(100% + 40px);  
+  }
+&lt;/style&gt;
+
+&lt;div class=&#34;vim-code-container&#34;&gt;
+  &lt;div class=&#34;vim-code&#34; style=&#34;line-height: 1; font-size:15px;&#34;&gt;
+    
+git clone https://git.suckless.org/sent
+cd sent
+sudo make clean install
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Before using &lt;code&gt;sent&lt;/code&gt;, make sure you have the required dependencies installed, which are &lt;code&gt;libx11&lt;/code&gt;,&lt;code&gt;libxft&lt;/code&gt; and &lt;code&gt;farbfeld&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;
+
+&lt;style&gt;
+  .vim-code-container {
+    display: flex;
+    justify-content: center;
+  }
+
+  .vim-code {
+    background-color: #1c1c1c;
+    color: #b9b9b9;
+    font-family: &#34;Courier New&#34;, monospace;
+    padding: 5px;
+    border: 2px solid #4e4e4e;
+    border-radius: 8px;
+    overflow-x: auto;
+    white-space: pre;
+    margin: 20px auto;
+    max-width: calc(100% + 40px);  
+  }
+&lt;/style&gt;
+
+&lt;div class=&#34;vim-code-container&#34;&gt;
+  &lt;div class=&#34;vim-code&#34; style=&#34;line-height: 0.5; font-size:20px;&#34;&gt;
+    
+sudo pacman -S libx11 libxft
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;code&gt;farbfeld&lt;/code&gt; for the images to render
+
+
+&lt;style&gt;
+  .vim-code-container {
+    display: flex;
+    justify-content: center;
+  }
+
+  .vim-code {
+    background-color: #1c1c1c;
+    color: #b9b9b9;
+    font-family: &#34;Courier New&#34;, monospace;
+    padding: 5px;
+    border: 2px solid #4e4e4e;
+    border-radius: 8px;
+    overflow-x: auto;
+    white-space: pre;
+    margin: 20px auto;
+    max-width: calc(100% + 40px);  
+  }
+&lt;/style&gt;
+
+&lt;div class=&#34;vim-code-container&#34;&gt;
+  &lt;div class=&#34;vim-code&#34; style=&#34;line-height: 1; font-size:15px;&#34;&gt;
+    
+git clone https://git.suckless.org/farbfeld
+cd farbfeld
+sudo make clean install
+
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+&lt;div style=&#34;text-align: left; margin-bottom:  20px;&#34;&gt;
+  &lt;h1 style=&#34; margin-bottom:  20px; font-size: 25px; font-weight: bold; color: #be4d25;&#34;&gt;
+    How to Use sent
+  &lt;/h1&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;to-create-and-run-a-presentation-using-sent&#34;&gt;To create and run a presentation using &lt;code&gt;sent&lt;/code&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;in a text file Each slide is separated by a blank line&lt;/li&gt;
+&lt;li&gt;Use lines starting with &lt;code&gt;#&lt;/code&gt; for comments.&lt;/li&gt;
+&lt;li&gt;Use &lt;code&gt;@FILENAME&lt;/code&gt; to add an image slide, e.g., &lt;code&gt;@slide.png&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;\&lt;/code&gt;  for empty slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;To run the presentation, use the following command:&lt;/p&gt;
+
+
+&lt;style&gt;
+  .vim-code-container {
+    display: flex;
+    justify-content: center;
+  }
+
+  .vim-code {
+    background-color: #1c1c1c;
+    color: #b9b9b9;
+    font-family: &#34;Courier New&#34;, monospace;
+    padding: 5px;
+    border: 2px solid #4e4e4e;
+    border-radius: 8px;
+    overflow-x: auto;
+    white-space: pre;
+    margin: 20px auto;
+    max-width: calc(100% + 40px);  
+  }
+&lt;/style&gt;
+
+&lt;div class=&#34;vim-code-container&#34;&gt;
+  &lt;div class=&#34;vim-code&#34; style=&#34;line-height: 0.5; font-size:20px;&#34;&gt;
+    
+  sent [File]  
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div style=&#34;text-align: left; margin-bottom:  20px;&#34;&gt;
+  &lt;h1 style=&#34; margin-bottom:  20px; font-size: 25px; font-weight: bold; color: #be4d25;&#34;&gt;
+    Example
+  &lt;/h1&gt;
+&lt;/div&gt;
+
+
+
+
+ 
+
+
+
+&lt;div class=&#34;content-container&#34; style=&#34;display: flex; flex-wrap: wrap; align-items: center;&#34;&gt;
+
+  &lt;div class=&#34;text-box&#34; style=&#34;flex: 1; padding: 10px;&#34;&gt;
+    
+
+
+&lt;style&gt;
+  .vim-code-container {
+    display: flex;
+    justify-content: center;
+  }
+
+  .vim-code {
+    background-color: #1c1c1c;
+    color: #b9b9b9;
+    font-family: &#34;Courier New&#34;, monospace;
+    padding: 5px;
+    border: 2px solid #4e4e4e;
+    border-radius: 8px;
+    overflow-x: auto;
+    white-space: pre;
+    margin: 20px auto;
+    max-width: calc(100% + 40px);  
+  }
+&lt;/style&gt;
+
+&lt;div class=&#34;vim-code-container&#34;&gt;
+  &lt;div class=&#34;vim-code&#34; style=&#34;line-height: 1; font-size:20px;&#34;&gt;
+    
+# Slide 1: This is a comment
+ Introduction to Sent
+
+Sent is a minimalistic and lightweight presentation tool.
+
+Sent:
+- Plain text slides: Create slides with plain text content.
+- Image slides: Include images to illustrate your points.
+- Use lines starting with # for comments
+
+# Image Slide
+@image1.jpg
+
+👋 Hello, world! 🌍
+
+Sent allows basic customization using a configuration file.
+
+@image2.jpg
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+  &lt;/div&gt;
+
+  &lt;div class=&#34;image-box&#34; style=&#34;flex: 1; margin-top: 50px;&#34;&gt;
+    &lt;img src=&#34;../sent.gif&#34; alt=&#34;Alt text&#34; class=&#34;responsive-image&#34; style=&#34;max-width: 600px;&#34;&gt;
+  &lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;style&gt;
+  @media (max-width: 768px) {
+    .content-container {
+      flex-direction: column;  
+    }
+
+    .text-box,
+    .image-box {
+      flex: 100%;
+      max-width: 100%;
+      padding: 10px;
+    }
+
+    .responsive-image {
+      width: 100%;
+      height: auto;
+      max-width: 300px;  
+    }
+
+    .text-box {
+      font-size: 14px;  
+    }
+  }
+&lt;/style&gt;
+
+&lt;div style=&#34;text-align: left; margin-bottom:  20px;&#34;&gt;
+  &lt;h1 style=&#34; margin-bottom:  20px; font-size: 25px; font-weight: bold; color: #be4d25;&#34;&gt;
+    Patching
+  &lt;/h1&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Patching is a method used to modify or extend software without altering the original source code. In the context of
+&lt;code&gt;sent&lt;/code&gt;, patching allows you to customize its behavior, add new features, or fix issues while still being able to update
+the software.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Download the Patch&lt;/strong&gt; : &lt;a href=&#34;https://tools.suckless.org/sent/patches&#34;&gt;&lt;code&gt;suckless sent patches&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Apply the Patch&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;Open a terminal and navigate to the directory where the &lt;code&gt;sent&lt;/code&gt; source code is located. Apply the patch using the
+&lt;code&gt;patch&lt;/code&gt; command:&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;style&gt;
+  .vim-code-container {
+    display: flex;
+    justify-content: center;
+  }
+
+  .vim-code {
+    background-color: #1c1c1c;
+    color: #b9b9b9;
+    font-family: &#34;Courier New&#34;, monospace;
+    padding: 5px;
+    border: 2px solid #4e4e4e;
+    border-radius: 8px;
+    overflow-x: auto;
+    white-space: pre;
+    margin: 20px auto;
+    max-width: calc(100% + 40px);  
+  }
+&lt;/style&gt;
+
+&lt;div class=&#34;vim-code-container&#34;&gt;
+  &lt;div class=&#34;vim-code&#34; style=&#34;line-height: 1; font-size:17px;&#34;&gt;
+    
+patch -i [path_to_patch_file]
+sudo cp config.def.h config.h
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;This command applies the changes specified in the patch file to the &lt;code&gt;sent&lt;/code&gt; source code.&lt;/p&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Compile &lt;code&gt;sent&lt;/code&gt;&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;Recompile the modified &lt;code&gt;sent&lt;/code&gt; source code to generate the patched executable:&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;style&gt;
+  .vim-code-container {
+    display: flex;
+    justify-content: center;
+  }
+
+  .vim-code {
+    background-color: #1c1c1c;
+    color: #b9b9b9;
+    font-family: &#34;Courier New&#34;, monospace;
+    padding: 5px;
+    border: 2px solid #4e4e4e;
+    border-radius: 8px;
+    overflow-x: auto;
+    white-space: pre;
+    margin: 20px auto;
+    max-width: calc(100% + 40px);  
+  }
+&lt;/style&gt;
+
+&lt;div class=&#34;vim-code-container&#34;&gt;
+  &lt;div class=&#34;vim-code&#34; style=&#34;line-height: 0.5; font-size:20px;&#34;&gt;
+    
+sudo make install
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div style=&#34;text-align: left; margin-bottom:  20px;&#34;&gt;
+  &lt;h1 style=&#34; margin-bottom:  20px; font-size: 25px; font-weight: bold; color: #be4d25;&#34;&gt;
+    what i patch
+  &lt;/h1&gt;
+&lt;/div&gt;
+
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Inverted Colors&lt;/strong&gt; (&lt;code&gt;sent-invertedcolors-72d33d4.diff&lt;/code&gt;):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Inverts the color scheme, offering high contrast mode with the &lt;code&gt;i&lt;/code&gt; key.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;PDF Export&lt;/strong&gt; (&lt;code&gt;sent-pdf-2649e8d.diff&lt;/code&gt;):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Adds direct PDF export using the &lt;code&gt;g&lt;/code&gt; key.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Progress Bar&lt;/strong&gt; (&lt;code&gt;sent-progress-bar-1.0.diff&lt;/code&gt;):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Includes a progress bar to track slide position.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Toggle Color Scheme&lt;/strong&gt; (&lt;code&gt;sent-toggle-scm-20210119-2be4210.diff&lt;/code&gt;):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Toggles between normal and inverted color modes with the &lt;code&gt;i&lt;/code&gt; key.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div style=&#34;text-align: left; margin-bottom:  20px;&#34;&gt;
+  &lt;h1 style=&#34; margin-bottom:  20px; font-size: 25px; font-weight: bold; color: #be4d25;&#34;&gt;
+    Get My Configuration
+  &lt;/h1&gt;
+&lt;/div&gt;
+
+&lt;p&gt;simply clone the repository and compile :&lt;/p&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+    &lt;img src=&#34;../under.gif&#34; alt=&#34;text&#34;&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Contact</title>
+		<link>/contact/</link>
+		<pubDate>Mon, 31 Jul 2023 15:18:58 +0100</pubDate>
+		
+		<guid>/contact/</guid>
+		<description>&lt;hr&gt;
+
+
+
+ 
+
+
+
+&lt;div class=&#34;content-container&#34; style=&#34;display: flex; flex-wrap: wrap; align-items: center;&#34;&gt;
+
+  &lt;div class=&#34;text-box&#34; style=&#34;flex: 1; padding: 10px;&#34;&gt;
+    
+
+&lt;div style=&#34;text-align: center; margin-bottom:  20px;&#34;&gt;
+  &lt;h1 style=&#34; margin-bottom:  20px; font-size: 35px; font-weight: bold; color: #be4d25;&#34;&gt;
+    Get in Touch
+  &lt;/h1&gt;
+&lt;/div&gt;
+
+
+We value your thoughts, questions, and ideas. Your input helps us improve and refine our platform to better serve you. 
+Whether you have inquiries, suggestions, or simply want to share your experiences, we&#39;re eager to hear from you, So, 
+don&#39;t hesitate to reach out
+
+
+  &lt;/div&gt;
+
+  &lt;div class=&#34;image-box&#34; style=&#34;flex: 1; margin-top: 10px;&#34;&gt;
+    &lt;img src=&#34;../contact.webp&#34; alt=&#34;Alt text&#34; class=&#34;responsive-image&#34; style=&#34;max-width: 750px;&#34;&gt;
+  &lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;style&gt;
+  @media (max-width: 768px) {
+    .content-container {
+      flex-direction: column;  
+    }
+
+    .text-box,
+    .image-box {
+      flex: 100%;
+      max-width: 100%;
+      padding: 10px;
+    }
+
+    .responsive-image {
+      width: 100%;
+      height: auto;
+      max-width: 300px;  
+    }
+
+    .text-box {
+      font-size: 14px;  
+    }
+  }
+&lt;/style&gt;
+
+&lt;p&gt;Your feedback and questions are important to us. Feel free to reach out to us through the following channels:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Email&lt;/strong&gt;: Send us an email at &lt;a href=&#34;mailto:your_email@example.com&#34;&gt;kh@binaryefficiency.com&lt;/a&gt; for inquiries, feedback, or any assistance you need.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;XMPP&lt;/strong&gt;: Not yet.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;hr&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Donate</title>
+		<link>/donate/</link>
+		<pubDate>Mon, 31 Jul 2023 15:18:58 +0100</pubDate>
+		
+		<guid>/donate/</guid>
+		<description>&lt;hr&gt;
+
+
+
+ 
+
+
+
+&lt;div class=&#34;content-container&#34; style=&#34;display: flex; flex-wrap: wrap; align-items: center;&#34;&gt;
+
+  &lt;div class=&#34;text-box&#34; style=&#34;flex: 1; padding: 10px;&#34;&gt;
+    
+
+&lt;div style=&#34;text-align: center; margin-bottom:  20px;&#34;&gt;
+  &lt;h1 style=&#34; margin-bottom:  20px; font-size: 35px; font-weight: bold; color: #be4d25;&#34;&gt;
+    Donations
+  &lt;/h1&gt;
+&lt;/div&gt;
+
+
+
+If you&#39;d like to help cover essential expenses, such as maintaining our Virtual Private Servers (VPS) to ensure 
+platform reliability,Your contribution helps the continuation of creating content and providing valuable information 
+
+
+  &lt;/div&gt;
+
+  &lt;div class=&#34;image-box&#34; style=&#34;flex: 1; margin-top: 10px;&#34;&gt;
+    &lt;img src=&#34;../donate.webp&#34; alt=&#34;Alt text&#34; class=&#34;responsive-image&#34; style=&#34;max-width: 750px;&#34;&gt;
+  &lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;style&gt;
+  @media (max-width: 768px) {
+    .content-container {
+      flex-direction: column;  
+    }
+
+    .text-box,
+    .image-box {
+      flex: 100%;
+      max-width: 100%;
+      padding: 10px;
+    }
+
+    .responsive-image {
+      width: 100%;
+      height: auto;
+      max-width: 300px;  
+    }
+
+    .text-box {
+      font-size: 14px;  
+    }
+  }
+&lt;/style&gt;
+
+&lt;div style=&#34;text-align: left; margin-bottom:  20px;&#34;&gt;
+  &lt;h1 style=&#34; margin-bottom:  20px; font-size: 20px; font-weight: bold; color: #be4d25;&#34;&gt;
+    Monero (XMR) Donation :
+  &lt;/h1&gt;
+&lt;/div&gt;
+
+&lt;style&gt;
+  @media (max-width: 768px) {
+    .shortcode-container {
+	display: block !important;
+    }
+
+  }
+&lt;/style&gt;
+
+&lt;div &gt;
+  &lt;div class=&#34;shortcode-container&#34; style=&#34; display: flex; align-items: center; justify-content: left; margin-top: 20px;&#34;&gt;
+    &lt;img src=&#34;../monero.svg&#34; alt=&#34;Monero Logo&#34; style=&#34;max-height: 60px; margin-right: 10px;&#34;&gt;
+    &lt;p style=&#34;color: white; font-size: 17px; word-wrap: break-word;&#34;&gt;
+      XMR: 46a5LisF8x4V5RJdAvajKCYTWg5EoH4JUBvffk1jZZ1sRpFHQsd3Z6CE8JsKAdocBmA7KvUkFtpELbMvMs7Writ43xYGk3j
+    &lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&#34;../qr.webp&#34; alt=&#34;Monero QR Code&#34;&gt;&lt;/p&gt;
+&lt;div style=&#34;text-align: left; margin-bottom:  20px;&#34;&gt;
+  &lt;h1 style=&#34; margin-bottom:  20px; font-size: 20px; font-weight: bold; color: #be4d25;&#34;&gt;
+    Other :
+  &lt;/h1&gt;
+&lt;/div&gt;
+
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;PayPal Link&lt;/strong&gt;: &lt;a href=&#34;link_to_your_paypal_donation&#34;&gt;PayPal Donation&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;If you have any questions or want to support us in other ways, please email us at &lt;a href=&#34;mailto:kh@binaryefficiency.com&#34;&gt;kh@binaryefficiency.com&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+</description>
+	</item>
+	
+	</channel>
+</rss>

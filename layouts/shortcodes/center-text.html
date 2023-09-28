@@ -1,0 +1,6 @@
+<div style="display: flex; justify-content: {{ .Get "align" | default "center" }}; align-items: {{ .Get "align" | default "center" }}; "> 
+
+<p style=" font-size:{{ .Get "size" | default "20px" }}; margin-top:0.1px; 
+    margin-left: {{ .Get "margin" | default "50px" }}">{{ .Inner | markdownify }}
+</p>
+</div>

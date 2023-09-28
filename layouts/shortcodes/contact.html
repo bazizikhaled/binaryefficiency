@@ -1,0 +1,80 @@
+<style>
+        /* Add some general styles */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #020203;
+        }
+
+        /* Style the container */
+        .uk-container {
+            background-color: #020203;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        /* Style the form */
+        .uk-form-horizontal .uk-form-label {
+            font-weight: bold;
+        }
+
+        .uk-form-controls {
+            margin-bottom: 20px;
+        }
+
+        .uk-input,
+        .uk-textarea {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            font-size: 16px;
+        }
+
+        .uk-button {
+            background-color: #007bff;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            padding: 10px 20px;
+            cursor: pointer;
+        }
+
+        /* Style the submit button on hover */
+        .uk-button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+
+
+<section>
+  <div class="uk-container">
+    <form class="uk-form-horizontal uk-margin-large" action="{{.Site.Params.contact.formAction}}" method="post">
+
+      <div class="uk-margin">
+        <label class="uk-form-label" for="name">Name</label>
+        <div class="uk-form-controls">
+          <input class="uk-input" name="name" id="name" type="text" placeholder="NAPOLEON">
+        </div>
+      </div>
+
+      <div class="uk-margin">
+        <label class="uk-form-label" for="email">Email</label>
+        <div class="uk-form-controls">
+          <input class="uk-input" name="email" id="email" type="text" placeholder="bazizikhaled7@gmail.com">
+        </div>
+      </div>
+      <div class="uk-margin">
+        <label class="uk-form-label" for="message">Message</label>
+        <div class="uk-form-controls">
+          <textarea class="uk-textarea" name="message" id="message" rows="5" placeholder="Your message here"></textarea>
+        </div>
+      </div>
+
+      <button class="uk-align-center uk-button uk-button-default">Submit</button>
+
+    </form>
+
+  </div>
+
+</section>
